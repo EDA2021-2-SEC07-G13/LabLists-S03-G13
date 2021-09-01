@@ -1,8 +1,8 @@
 #ISIS1225 - Estructura de un proyecto
 
-Estudiante 1: Thomas Gomez Serpa / t.gomezs2@uniandes.edu.co / 202116859
+Estudiante 1: Thomas Gomez Serpa / t.gomezs2@uniandes.edu.co / 202116859 /
 
-Estudiante 2: Wyo Hann Chu Mendez / w.chu@uniandes.edu.co / 202015066
+Estudiante 2: Wyo Hann Chu Mendez / w.chu@uniandes.edu.co / 202015066 /
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
